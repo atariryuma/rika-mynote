@@ -1,0 +1,80 @@
+site_name: 理科マイノート
+site_description: 那覇市立天久小学校 理科専科 教材研究 & PDCA記録（R8年度）
+site_author: 中 龍馬
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - scheme: default
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替え
+    - scheme: slate
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替え
+  font:
+    text: Noto Sans JP
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  icon:
+    logo: material/flask-outline
+
+plugins:
+  - search:
+      lang: ja
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - ホーム: index.md
+  - 校内研究:
+    - 研究の概要: research/overview.md
+    - 理科における視点: research/rika-perspective.md
+  - 5年:
+    - 年間の見通し: 5nen/index.md
+    - 理科開き:
+      - Plan: 5nen/rika-biraki/plan.md
+      - Do & Check: 5nen/rika-biraki/do-check.md
+      - Action: 5nen/rika-biraki/action.md
+    - 天気の変化:
+      - Plan: 5nen/tenki-no-henka/plan.md
+      - Do & Check: 5nen/tenki-no-henka/do-check.md
+      - Action: 5nen/tenki-no-henka/action.md
+  - 6年:
+    - 年間の見通し: 6nen/index.md
+    - 理科開き:
+      - Plan: 6nen/rika-biraki/plan.md
+      - Do & Check: 6nen/rika-biraki/do-check.md
+      - Action: 6nen/rika-biraki/action.md
+    - 物の燃え方と空気:
+      - Plan: 6nen/mono-no-moekata/plan.md
+      - Do & Check: 6nen/mono-no-moekata/do-check.md
+      - Action: 6nen/mono-no-moekata/action.md
+  - ふりかえり:
+    - 年間まとめ: reflection/annual.md
