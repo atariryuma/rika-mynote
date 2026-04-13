@@ -1,6 +1,10 @@
 site_name: 理科マイノート
 site_description: 那覇市立天久小学校 理科専科 教材研究 & PDCA記録（R8年度）
 site_author: 中 龍馬
+site_url: https://atariryuma.github.io/rika-mynote/
+repo_url: https://github.com/atariryuma/rika-mynote
+repo_name: atariryuma/rika-mynote
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -30,12 +34,15 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.indexes
+    - navigation.footer
+    - toc.follow
     - search.suggest
     - search.highlight
     - search.share
     - content.tabs.link
     - content.code.copy
     - content.tooltips
+    - content.action.edit
   icon:
     logo: material/flask-outline
 
@@ -50,6 +57,7 @@ plugins:
       lang: ja
 
 markdown_extensions:
+  - abbr
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -58,6 +66,19 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+      base_path:
+        - docs
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.tilde
   - attr_list
   - md_in_html
   - tables
@@ -69,6 +90,7 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+      toc_depth: 3
 
 nav:
   - ホーム: index.md
