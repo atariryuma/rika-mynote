@@ -4,40 +4,37 @@ hide:
   - toc
 ---
 
-# :material-flask-beaker: 理科マイノート
-{: .hero-title }
+<div class="hero-section" markdown>
 
-**那覇市立天久小学校 理科専科　中 龍馬** | 令和8年度（2026）
+# :material-flask-outline: 理科マイノート
 
-科学の教材研究と授業実践をPDCAサイクルで記録。学び方を選択し自己調整する児童の育成を目指します。
-{: .hero-subtitle }
+<p class="hero-subtitle"><strong>那覇市立天久小学校 理科専科　中 龍馬</strong> ｜ 令和8年度（2026）</p>
+
+<p class="hero-description">科学の教材研究と授業実践をPDCAサイクルで記録。学び方を選択し自己調整する児童の育成を目指します。</p>
+
+</div>
 
 ---
 
-## :material-chart-box: サイト統計
+## :material-chart-box-outline: サイト統計
 
 <div class="stats-container">
-
-<div class="stat-card">
-  <div class="stat-number">22</div>
-  <div class="stat-label">単元数</div>
-</div>
-
-<div class="stat-card">
-  <div class="stat-number">210</div>
-  <div class="stat-label">授業時間</div>
-</div>
-
-<div class="stat-card">
-  <div class="stat-number">7</div>
-  <div class="stat-label">クラス数</div>
-</div>
-
-<div class="stat-card">
-  <div class="stat-number">78</div>
-  <div class="stat-label">ページ数</div>
-</div>
-
+  <div class="stat-card">
+    <div class="stat-number">22</div>
+    <div class="stat-label">単元数</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-number">210</div>
+    <div class="stat-label">授業時間</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-number">7</div>
+    <div class="stat-label">クラス数</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-number">78</div>
+    <div class="stat-label">ページ数</div>
+  </div>
 </div>
 
 ---
@@ -50,39 +47,32 @@ hide:
 
 ---
 
-## :material-school: 学年別ダッシュボード
+## :material-school-outline: 学年別ダッシュボード
 
-<div class="grid cards" markdown>
-
-=== "5年生"
-
-    **3クラス・105時間・10単元**
-
-    <div class="progress-container">
-      <div class="progress-bar" style="width: 10%;"></div>
+<div class="grade-cards">
+  <div class="grade-card">
+    <h3>:material-numeric-5-circle: 5年生</h3>
+    <p><strong>3クラス・105時間・10単元</strong></p>
+    <div class="progress-track">
+      <div class="progress-fill" style="width: 10%;"></div>
     </div>
-    
     <p class="progress-label">Plan完了率: 10%</p>
-
-    [年間の見通し →](5nen/index.md){ .md-button .md-button--primary }
-
-=== "6年生"
-
-    **4クラス・105時間・12単元**
-
-    <div class="progress-container">
-      <div class="progress-bar" style="width: 8%;"></div>
+    <p><a href="5nen/" class="md-button md-button--primary">年間の見通し →</a></p>
+  </div>
+  <div class="grade-card">
+    <h3>:material-numeric-6-circle: 6年生</h3>
+    <p><strong>4クラス・105時間・12単元</strong></p>
+    <div class="progress-track">
+      <div class="progress-fill" style="width: 8%;"></div>
     </div>
-    
     <p class="progress-label">Plan完了率: 8%</p>
-
-    [年間の見通し →](6nen/index.md){ .md-button .md-button--primary }
-
+    <p><a href="6nen/" class="md-button md-button--primary">年間の見通し →</a></p>
+  </div>
 </div>
 
 ---
 
-## :material-list-box: PDCA実践ダッシュボード
+## :material-clipboard-check-outline: PDCA実践ダッシュボード
 
 ### 5年生（105時間）
 
@@ -118,7 +108,7 @@ hide:
 
 ---
 
-## :material-microscope: 校内研究との連携
+## :material-magnify: 校内研究との連携
 
 <div class="research-highlight" markdown>
 
@@ -136,40 +126,28 @@ hide:
 
 ---
 
-## :material-folder-open: リソース一覧
+## :material-folder-open-outline: リソース一覧
 
-<div class="grid cards" markdown>
-
-=== "年間指導計画"
-
-    :material-calendar: **年間指導計画**
-    
-    全22単元の年間スケジュール。実施時期・主題・評価規準を一覧化しました。
-    
-    [確認する →](resources/annual-plan.md){ .md-button .md-button--primary }
-
-=== "学習指導要領対照表"
-
-    :material-file-document: **学習指導要領対照表**
-    
-    各単元が学習指導要領のどの単元に対応しているか、一目でわかる資料です。
-    
-    [確認する →](resources/shidou-yoryo.md){ .md-button .md-button--primary }
-
-=== "リソース集"
-
-    :material-library: **リソース集**
-    
-    教材研究資料、学習プリント、実験動画、授業スライドなどの一覧です。
-    
-    [確認する →](resources/index.md){ .md-button .md-button--primary }
-
+<div class="resource-cards">
+  <div class="resource-card">
+    <h3>:material-calendar: 年間指導計画</h3>
+    <p>全22単元の年間スケジュール。実施時期・主題・評価規準を一覧化しました。</p>
+    <p><a href="resources/annual-plan/" class="md-button md-button--primary">確認する →</a></p>
+  </div>
+  <div class="resource-card">
+    <h3>:material-file-document-outline: 学習指導要領対照表</h3>
+    <p>各単元が学習指導要領のどの単元に対応しているか、一目でわかる資料です。</p>
+    <p><a href="resources/shidou-yoryo/" class="md-button md-button--primary">確認する →</a></p>
+  </div>
+  <div class="resource-card">
+    <h3>:material-bookshelf: リソース集</h3>
+    <p>教材研究資料、学習プリント、実験動画、授業スライドなどの一覧です。</p>
+    <p><a href="resources/" class="md-button md-button--primary">確認する →</a></p>
+  </div>
 </div>
 
 ---
 
-<div class="footer-note" markdown>
-
-**GitHub Pages + MkDocs Material で構築** | 令和8年度 (2026)
-
+<div class="footer-note">
+  <p><strong>GitHub Pages + MkDocs Material で構築</strong> ｜ 令和8年度 (2026)</p>
 </div>
