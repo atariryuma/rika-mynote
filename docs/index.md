@@ -51,7 +51,7 @@ hide:
 
 <div class="grade-cards">
   <div class="grade-card">
-    <h3>:material-numeric-5-circle: 5年生</h3>
+    <h3>5年生</h3>
     <p><strong>3クラス・105時間・10単元</strong></p>
     <div class="progress-track">
       <div class="progress-fill" style="width: 10%;"></div>
@@ -60,7 +60,7 @@ hide:
     <p><a href="5nen/" class="md-button md-button--primary">年間の見通し →</a></p>
   </div>
   <div class="grade-card">
-    <h3>:material-numeric-6-circle: 6年生</h3>
+    <h3>6年生</h3>
     <p><strong>4クラス・105時間・12単元</strong></p>
     <div class="progress-track">
       <div class="progress-fill" style="width: 8%;"></div>
@@ -130,17 +130,17 @@ hide:
 
 <div class="resource-cards">
   <div class="resource-card">
-    <h3>:material-calendar: 年間指導計画</h3>
+    <h3>年間指導計画</h3>
     <p>全22単元の年間スケジュール。実施時期・主題・評価規準を一覧化しました。</p>
     <p><a href="resources/annual-plan/" class="md-button md-button--primary">確認する →</a></p>
   </div>
   <div class="resource-card">
-    <h3>:material-file-document-outline: 学習指導要領対照表</h3>
+    <h3>学習指導要領対照表</h3>
     <p>各単元が学習指導要領のどの単元に対応しているか、一目でわかる資料です。</p>
     <p><a href="resources/shidou-yoryo/" class="md-button md-button--primary">確認する →</a></p>
   </div>
   <div class="resource-card">
-    <h3>:material-bookshelf: リソース集</h3>
+    <h3>リソース集</h3>
     <p>教材研究資料、学習プリント、実験動画、授業スライドなどの一覧です。</p>
     <p><a href="resources/" class="md-button md-button--primary">確認する →</a></p>
   </div>
