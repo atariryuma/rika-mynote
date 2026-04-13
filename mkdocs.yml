@@ -66,15 +66,95 @@ nav:
       - Plan: 5nen/tenki-no-henka/plan.md
       - Do & Check: 5nen/tenki-no-henka/do-check.md
       - Action: 5nen/tenki-no-henka/action.md
+    - 植物の発芽と成長:
+      - Plan: 5nen/shokubutsu-hatsuga-seicho/plan.md
+      - Do & Check: 5nen/shokubutsu-hatsuga-seicho/do-check.md
+      - Action: 5nen/shokubutsu-hatsuga-seicho/action.md
+    - メダカのたんじょう:
+      - Plan: 5nen/medaka-no-tanjo/plan.md
+      - Do & Check: 5nen/medaka-no-tanjo/do-check.md
+      - Action: 5nen/medaka-no-tanjo/action.md
+    - 台風と気象情報:
+      - Plan: 5nen/taifu-to-kisho/plan.md
+      - Do & Check: 5nen/taifu-to-kisho/do-check.md
+      - Action: 5nen/taifu-to-kisho/action.md
+    - 流れる水のはたらき:
+      - Plan: 5nen/nagareru-mizu/plan.md
+      - Do & Check: 5nen/nagareru-mizu/do-check.md
+      - Action: 5nen/nagareru-mizu/action.md
+    - もののとけ方:
+      - Plan: 5nen/mono-no-tokekata/plan.md
+      - Do & Check: 5nen/mono-no-tokekata/do-check.md
+      - Action: 5nen/mono-no-tokekata/action.md
+    - 振り子の運動:
+      - Plan: 5nen/furiko-no-undo/plan.md
+      - Do & Check: 5nen/furiko-no-undo/do-check.md
+      - Action: 5nen/furiko-no-undo/action.md
+    - 電流と電磁石:
+      - Plan: 5nen/denryu-to-denjishaku/plan.md
+      - Do & Check: 5nen/denryu-to-denjishaku/do-check.md
+      - Action: 5nen/denryu-to-denjishaku/action.md
+    - 人のたんじょう:
+      - Plan: 5nen/hito-no-tanjo/plan.md
+      - Do & Check: 5nen/hito-no-tanjo/do-check.md
+      - Action: 5nen/hito-no-tanjo/action.md
   - 6年:
     - 年間の見通し: 6nen/index.md
     - 理科開き:
       - Plan: 6nen/rika-biraki/plan.md
       - Do & Check: 6nen/rika-biraki/do-check.md
       - Action: 6nen/rika-biraki/action.md
+    - 地球と私たちのくらし:
+      - Plan: 6nen/unit1/plan.md
+      - Do & Check: 6nen/unit1/do-check.md
+      - Action: 6nen/unit1/action.md
     - 物の燃え方と空気:
       - Plan: 6nen/mono-no-moekata/plan.md
       - Do & Check: 6nen/mono-no-moekata/do-check.md
       - Action: 6nen/mono-no-moekata/action.md
+    - 動物の体のつくりとはたらき:
+      - Plan: 6nen/unit3/plan.md
+      - Do & Check: 6nen/unit3/do-check.md
+      - Action: 6nen/unit3/action.md
+    - 植物の体のつくりとはたらき:
+      - Plan: 6nen/unit4/plan.md
+      - Do & Check: 6nen/unit4/do-check.md
+      - Action: 6nen/unit4/action.md
+    - 生き物どうしのかかわり:
+      - Plan: 6nen/unit5/plan.md
+      - Do & Check: 6nen/unit5/do-check.md
+      - Action: 6nen/unit5/action.md
+    - 月の形と太陽:
+      - Plan: 6nen/unit6/plan.md
+      - Do & Check: 6nen/unit6/do-check.md
+      - Action: 6nen/unit6/action.md
+    - 大地のつくり:
+      - Plan: 6nen/unit7/plan.md
+      - Do & Check: 6nen/unit7/do-check.md
+      - Action: 6nen/unit7/action.md
+    - 変わり続ける大地:
+      - Plan: 6nen/unit8/plan.md
+      - Do & Check: 6nen/unit8/do-check.md
+      - Action: 6nen/unit8/action.md
+    - てこのはたらきとしくみ:
+      - Plan: 6nen/unit9/plan.md
+      - Do & Check: 6nen/unit9/do-check.md
+      - Action: 6nen/unit9/action.md
+    - 水溶液の性質とはたらき:
+      - Plan: 6nen/unit10/plan.md
+      - Do & Check: 6nen/unit10/do-check.md
+      - Action: 6nen/unit10/action.md
+    - 電気と私たちのくらし:
+      - Plan: 6nen/unit11/plan.md
+      - Do & Check: 6nen/unit11/do-check.md
+      - Action: 6nen/unit11/action.md
+    - 地球に生きる:
+      - Plan: 6nen/unit12/plan.md
+      - Do & Check: 6nen/unit12/do-check.md
+      - Action: 6nen/unit12/action.md
+  - リソース:
+    - リソース集: resources/index.md
+    - 年間指導計画: resources/annual-plan.md
+    - 学習指導要領対照表: resources/shidou-yoryo.md
   - ふりかえり:
     - 年間まとめ: reflection/annual.md
