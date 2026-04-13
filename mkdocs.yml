@@ -26,11 +26,24 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.indexes
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
+    - content.code.copy
+    - content.tooltips
   icon:
     logo: material/flask-outline
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
 
 plugins:
   - search:
@@ -48,6 +61,12 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.mark
+  - pymdownx.keys
+  - def_list
+  - footnotes
   - toc:
       permalink: true
 

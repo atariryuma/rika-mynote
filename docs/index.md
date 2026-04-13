@@ -1,130 +1,175 @@
-# 理科マイノート
+---
+hide:
+  - navigation
+  - toc
+---
 
-**那覇市立天久小学校 理科専科　中 龍馬**｜令和8年度（2026）
+# :material-flask-beaker: 理科マイノート
+{: .hero-title }
+
+**那覇市立天久小学校 理科専科　中 龍馬** | 令和8年度（2026）
+
+科学の教材研究と授業実践をPDCAサイクルで記録。学び方を選択し自己調整する児童の育成を目指します。
+{: .hero-subtitle }
 
 ---
 
-## このサイトについて
+## :material-chart-box: サイト統計
 
-理科の教材研究と授業実践のPDCA記録です。各単元ごとに **Plan → Do & Check → Action** の流れで記録し、次の単元に改善をつなげていきます。
+<div class="stats-container">
 
-校内研究主題「学び方を選択し自己調整する児童の育成」の視点を、理科の授業づくりにどう生かすかを探究します。
+<div class="stat-card">
+  <div class="stat-number">22</div>
+  <div class="stat-label">単元数</div>
+</div>
 
-## 担当
+<div class="stat-card">
+  <div class="stat-number">210</div>
+  <div class="stat-label">授業時間</div>
+</div>
 
-| 学年 | クラス | 時数 |
-|------|--------|------|
-| 5年 | 1組・2組・3組（3クラス） | 105時間 |
-| 6年 | 1組・2組・3組・4組（4クラス） | 105時間 |
+<div class="stat-card">
+  <div class="stat-number">7</div>
+  <div class="stat-label">クラス数</div>
+</div>
 
----
+<div class="stat-card">
+  <div class="stat-number">78</div>
+  <div class="stat-label">ページ数</div>
+</div>
 
-## リソース
-
-!!! tip "準備資料はこちら"
-    - [年間指導計画](resources/annual-plan.md) - 全単元の年間スケジュール
-    - [学習指導要領対照表](resources/shidou-yoryo.md) - 指導要領との対応確認
-    - [校内研究の概要](research/overview.md) - 研究主題の詳細
-    - [リソース集](resources/index.md) - 全リソースの一覧
-
----
-
-## PDCA ダッシュボード
-
-### 5年（105時間）
-
-| # | 単元 | P | D&C | A | 状態 |
-|:-:|------|:-:|:---:|:-:|:----:|
-| 0 | [理科開き](5nen/rika-biraki/plan.md) | ✓ | - | - | 進行中 |
-| 1 | [天気の変化](5nen/tenki-no-henka/plan.md) | ✓ | - | - | 準備中 |
-| 2 | 植物の発芽と成長 | - | - | - | 準備中 |
-| 3 | メダカのたんじょう | - | - | - | 準備中 |
-| 4 | 花から実へ | - | - | - | 準備中 |
-| 5 | 台風と気象情報 | - | - | - | 準備中 |
-| 6 | 流れる水のはたらき | - | - | - | 準備中 |
-| 7 | もののとけ方 | - | - | - | 準備中 |
-| 8 | 振り子の運動 | - | - | - | 準備中 |
-| 9 | 電流と電磁石 | - | - | - | 準備中 |
-| - | 人のたんじょう | - | - | - | 準備中 |
-
-**進捗**: 2/11単元が準備中
+</div>
 
 ---
 
-### 6年（105時間）
+## :material-calendar-week: 今週の単元
 
-| # | 単元 | P | D&C | A | 状態 |
-|:-:|------|:-:|:---:|:-:|:----:|
-| 0 | [理科開き](6nen/rika-biraki/plan.md) | ✓ | - | - | 進行中 |
-| - | [物の燃え方と空気](6nen/mono-no-moekata/plan.md) | ✓ | - | - | 準備中 |
-| 1 | 地球と私たちのくらし | - | - | - | 準備中 |
-| 2 | 動物の体のつくりとはたらき | - | - | - | 準備中 |
-| 3 | 植物の体のつくりとはたらき | - | - | - | 準備中 |
-| 4 | 生き物どうしのかかわり | - | - | - | 準備中 |
-| 5 | 月の形と太陽 | - | - | - | 準備中 |
-| 6 | 大地のつくり | - | - | - | 準備中 |
-| 7 | 変わり続ける大地 | - | - | - | 準備中 |
-| 8 | てこのはたらきとしくみ | - | - | - | 準備中 |
-| 9 | 水溶液の性質とはたらき | - | - | - | 準備中 |
-| 10 | 電気と私たちのくらし | - | - | - | 準備中 |
-| 11 | 地球に生きる | - | - | - | 準備中 |
-
-**進捗**: 2/13単元が準備中
+<div id="this-week-container" class="this-week-highlight">
+  <p>読み込み中...</p>
+</div>
 
 ---
 
-## サイト統計
+## :material-school: 学年別ダッシュボード
 
-- **総単元数**: 24（5年11単元 + 6年13単元）
-- **総授業時数**: 210時間（5年105h + 6年105h）
-- **実装済みページ**: 11ページ
-  - 研究資料: 3ページ
-  - リソース: 4ページ
-  - 実践記録: 4ページ
+<div class="grid cards" markdown>
 
----
+=== "5年生"
 
-## 学年別メニュー
+    **3クラス・105時間・10単元**
 
-### [5年生](5nen/index.md)
-
-| 単元 | P | D&C | A |
-|------|:-:|:---:|:-:|
-| 理科開き | [📋](5nen/rika-biraki/plan.md) | [📊](5nen/rika-biraki/do-check.md) | [✓](5nen/rika-biraki/action.md) |
-| 天気の変化 | [📋](5nen/tenki-no-henka/plan.md) | [📊](5nen/tenki-no-henka/do-check.md) | [✓](5nen/tenki-no-henka/action.md) |
-| 他の単元へ → | [全単元リンク](5nen/index.md) | | |
-
-### [6年生](6nen/index.md)
-
-| 単元 | P | D&C | A |
-|------|:-:|:---:|:-:|
-| 理科開き | [📋](6nen/rika-biraki/plan.md) | [📊](6nen/rika-biraki/do-check.md) | [✓](6nen/rika-biraki/action.md) |
-| 物の燃え方と空気 | [📋](6nen/mono-no-moekata/plan.md) | [📊](6nen/mono-no-moekata/do-check.md) | [✓](6nen/mono-no-moekata/action.md) |
-| 他の単元へ → | [全単元リンク](6nen/index.md) | | |
-
----
-
-## 研究との連携
-
-!!! note "自己調整学習の実践"
+    <div class="progress-container">
+      <div class="progress-bar" style="width: 10%;"></div>
+    </div>
     
-    このサイトの実践記録は、校内研究主題「学び方を選択し、自己調整する児童の育成」の実現に向けた、教材研究と授業実践の過程を可視化したものです。
+    <p class="progress-label">Plan完了率: 10%</p>
+
+    [年間の見通し →](5nen/index.md){ .md-button .md-button--primary }
+
+=== "6年生"
+
+    **4クラス・105時間・12単元**
+
+    <div class="progress-container">
+      <div class="progress-bar" style="width: 8%;"></div>
+    </div>
     
-    - **Plan**: 見通しを与える手立ての工夫
-    - **Do & Check**: 選択肢と振り返りの実装
-    - **Action**: 次の改善への計画
+    <p class="progress-label">Plan完了率: 8%</p>
+
+    [年間の見通し →](6nen/index.md){ .md-button .md-button--primary }
+
+</div>
 
 ---
 
-## 最新の更新
+## :material-list-box: PDCA実践ダッシュボード
 
-!!! info "2026年4月13日更新"
-    
-    - リソース集を新設
-    - 年間指導計画ページを作成
-    - 学習指導要領対照表を作成
-    - ダッシュボードを全単元対応に拡大
+### 5年生（105時間）
+
+| 単元 | Plan | Do&Check | Action | 状態 |
+|------|:----:|:--------:|:------:|:----:|
+| [理科開き](5nen/rika-biraki/plan.md) | <span class="badge badge-done">✓</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-active">進行中</span> |
+| [天気の変化](5nen/tenki-no-henka/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [植物の発芽と成長](5nen/shokubutsu-hatsuga-seicho/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [メダカのたんじょう](5nen/medaka-no-tanjo/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [台風と気象情報](5nen/taifu-to-kisho/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [流れる水のはたらき](5nen/nagareru-mizu/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [もののとけ方](5nen/mono-no-tokekata/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [振り子の運動](5nen/furiko-no-undo/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [電流と電磁石](5nen/denryu-to-denjishaku/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [人のたんじょう](5nen/hito-no-tanjo/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+
+### 6年生（105時間）
+
+| 単元 | Plan | Do&Check | Action | 状態 |
+|------|:----:|:--------:|:------:|:----:|
+| [理科開き](6nen/rika-biraki/plan.md) | <span class="badge badge-done">✓</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-active">進行中</span> |
+| [地球と私たちのくらし](6nen/unit1/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [物の燃え方と空気](6nen/mono-no-moekata/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [動物の体のつくりとはたらき](6nen/unit3/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [植物の体のつくりとはたらき](6nen/unit4/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [生き物どうしのかかわり](6nen/unit5/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [月の形と太陽](6nen/unit6/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [大地のつくり](6nen/unit7/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [変わり続ける大地](6nen/unit8/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [てこのはたらきとしくみ](6nen/unit9/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [水溶液の性質とはたらき](6nen/unit10/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [電気と私たちのくらし](6nen/unit11/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
 
 ---
 
-*このサイトは GitHub Pages + MkDocs Material で自動生成されています。*
+## :material-microscope: 校内研究との連携
+
+<div class="research-highlight" markdown>
+
+### 学び方を選択し自己調整する児童の育成
+
+このサイトの実践記録は、校内研究主題の実現に向けた教材研究と授業実践の過程を可視化したものです。
+
+- **Plan**: 見通しを与える手立ての工夫
+- **Do & Check**: 選択肢と振り返りの実装
+- **Action**: 次の改善への計画
+
+[校内研究の詳細 →](research/overview.md){ .md-button }
+
+</div>
+
+---
+
+## :material-folder-open: リソース一覧
+
+<div class="grid cards" markdown>
+
+=== "年間指導計画"
+
+    :material-calendar: **年間指導計画**
+    
+    全22単元の年間スケジュール。実施時期・主題・評価規準を一覧化しました。
+    
+    [確認する →](resources/annual-plan.md){ .md-button .md-button--primary }
+
+=== "学習指導要領対照表"
+
+    :material-file-document: **学習指導要領対照表**
+    
+    各単元が学習指導要領のどの単元に対応しているか、一目でわかる資料です。
+    
+    [確認する →](resources/shidou-yoryo.md){ .md-button .md-button--primary }
+
+=== "リソース集"
+
+    :material-library: **リソース集**
+    
+    教材研究資料、学習プリント、実験動画、授業スライドなどの一覧です。
+    
+    [確認する →](resources/index.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
+<div class="footer-note" markdown>
+
+**GitHub Pages + MkDocs Material で構築** | 令和8年度 (2026)
+
+</div>
