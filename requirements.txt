@@ -1,0 +1,7 @@
+# Pin majors so CI/prod match local dev. Bump intentionally.
+mkdocs==1.6.1
+mkdocs-material==9.7.6
+pymdown-extensions==10.21.2
+# Transitive but pinning avoids surprise breaks
+Markdown==3.10.2
+Pygments==2.20.0

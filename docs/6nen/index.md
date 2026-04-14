@@ -176,8 +176,8 @@
 
 - [サイトトップ](../index.md)
 - [5年の学習へ](../5nen/index.md)
-- [学習資料とリソース](../../resources/index.md)
-- [研究の視点](../../research/index.md)
+- [学習資料とリソース](../resources/index.md)
+- [研究の視点](../research/overview.md)
 
 ---
 

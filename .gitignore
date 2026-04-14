@@ -1,5 +1,35 @@
-
+# Local convenience scripts (already tracked: leave as-is)
 _push.bat
 _git_out.txt
 _status.txt
 _err.txt
+
+# MkDocs build output
+/site/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Logs / temp
+*.log
+*.tmp
+
+# Editor (keep only shared VSCode files)
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json

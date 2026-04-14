@@ -290,8 +290,8 @@
 - 写真・映像：学習共有フォルダ（セキュリティ設定済み）
 
 ### 関連リンク
-- 研究の視点の詳細：[/research/rika-perspective.md](./rika-perspective.md)
-- 各単元の詳細：[/5nen](/5nen/index.md) / [/6nen](/6nen/index.md)
+- 研究の視点の詳細：[研究の視点の詳細](../research/rika-perspective.md)
+- 各単元の詳細：[5年](../5nen/index.md) / [6年](../6nen/index.md)
 
 ---
 

@@ -105,6 +105,7 @@ hide:
 | [てこのはたらきとしくみ](6nen/unit9/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
 | [水溶液の性質とはたらき](6nen/unit10/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
 | [電気と私たちのくらし](6nen/unit11/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
+| [地球に生きる](6nen/unit12/plan.md) | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">―</span> | <span class="badge badge-pending">準備中</span> |
 
 ---
 
